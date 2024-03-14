@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This project's objective is to provide insights on the different variables that affect the likelihood of having cardiovascular disease. There are numerous variables such as age, weight, cholesterol levels, blood pressure levels and more. By analyzing some KPIs from the dataset, we look to identify any trends, make data-driven recommendations, and hopefully gauge on the company's performance.
+This project's objective is to provide insights on the different variables that affect the likelihood of having cardiovascular disease. There are numerous variables such as age, weight, cholesterol levels, blood pressure levels and more. By analyzing some KPIs from the dataset, we look to identify any trends, make data-driven recommendations, and hopefully gauge on the different factors pertaining to cardiovascular disease.
 
 ### About the Data
 
@@ -40,12 +40,12 @@ EDA was performed to answer key questions, such as, but not limited to:
 Based on the analysis, we recommend the following actions:
 
 - The big factors for an individual who may be at risk of CVD are age, weight, and blood pressure.
-- We recommend any person to be wary of their weight and blood pressure as these factors can be changed. Age cannot be changed. We recommend the individual to take care of their body and be healthy.
+- We recommend any person to be wary of their weight and blood pressure as these factors can be changed. Age cannot be changed. We recommend individuals to take care of their bodies and be healthy.
 - However, having CVD does not mean unhealthy. CVD is a broad concept and even a healthy normal weight, normal blood pressure, young age individual can have CVD. 
 
 ### Limitations
 
-These initial findings may spark some interest, but further analysis would be needed for more concrete results. For example, this dataset does not provide much information regarding if CVD is a positive or negative outcome. A normal weight, normal blood pressure, at a young age can have CVD. There were clear outliers in this dataset, but we were unsure whether to delete or keep, which we ultimately kept. 
+These initial findings may spark some interest, but further analysis would be needed for more concrete results. For example, this dataset does not provide much information regarding if CVD is a positive or negative outcome. A normal weight, normal blood pressure, at a young age can have CVD. There were clear outliers in this dataset, but we were unsure whether to delete or keep them, but we ultimately kept to avoid skewed calculations. 
 
 ### Complimentary Visualization
 
